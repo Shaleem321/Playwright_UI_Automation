@@ -1,0 +1,6 @@
+node_modules
+config/
+/allure-results
+/playwright-report
+/test-results
+/cookies
